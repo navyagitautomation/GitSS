@@ -4,13 +4,10 @@ public class Constructors {
 
 	public void getdata()
 	{
-		System.out.println("This is a method");
+		System.out.println("This is a method")
 	}
 	
-	public  Constructors()
-	{
-		System.out.println("THis is a CONSTRUCTOR");
-	}
+	
 	public  Constructors(int a)
 	{
 		System.out.println("THis is a CONSTRUCTOR" +a);
